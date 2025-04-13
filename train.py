@@ -158,7 +158,7 @@ batch_size = 64
 noise_dim = 100
 condition_dim = 512  # Dimension of CLIP text embeddings.
 lr = 0.0002
-num_epochs = 50
+num_epochs = 200
 image_size = 64
 
 transform = transforms.Compose([
